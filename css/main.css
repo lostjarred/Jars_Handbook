@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(40, 40, 40);
+}
+
+ul.menu {
+    list-style-type:none;
+}
+
+.borderall{
+    border: 3px dotted;
+}
+
+.bordertop {
+    border-top: 2px dashed;
+}
+
+.borderbottom {
+    border-bottom: 2px dashed;
+}
+
+.borderright {
+    border-right: 2px dashed;
+}
+
+.ascii-art {
+    white-space: pre;
+}
+
+
+.sub-menu {
+    text-indent: 20px;
+}

@@ -1,0 +1,46 @@
+/*
+amber  RGB(255, 176, 0)
+light amber RGB(255, 204, 0)
+*/
+p {
+    color:rgb(255, 204, 0);
+}
+h1 {
+    color:rgb(255, 176, 0);
+}
+
+h2 {
+    color:rgb(255, 176, 0);
+}
+
+h3 {
+    color:rgb(255, 176, 0);
+}
+
+h4 {
+    color:rgb(255, 176, 0);
+}
+
+h5 {
+    color:rgb(255, 176, 0);
+}
+
+a {
+    color:rgb(255, 204, 0);
+}
+
+.borderall{
+    border-color: rgb(255, 176, 0);
+}
+
+.bordertop {
+    border-color: rgb(255, 176, 0);
+}
+
+.borderbottom {
+    border-color: rgb(255, 176, 0);
+}
+
+.borderright {
+    border-color: rgb(255, 176, 0);
+}
