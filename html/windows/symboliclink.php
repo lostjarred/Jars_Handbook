@@ -57,7 +57,7 @@
                                 <div class="grid-x grid-padding-x">
                                     <!--content-->
                                     <div class="large-12 cell">
-                                        <h3>Command</h3>
+                                        <h3>Command Info</h3>
                                         <p>Creates a soft link pointing at a file <br> mklink Link Target </p>
                                         <p>/D for soft link pointing at a directory</p>
                                         <p>/H for a hard link pointing at a file</p>
