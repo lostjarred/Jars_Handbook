@@ -3,5 +3,11 @@
 
     function clock() {
         var date = new Date();
-        document.getElementById("clockp").innerHTML = date.getHours() + ":" + date.getMinutes() + " " + date.getDate() + "." + date.getMonth() + "." + date.getFullYear()
+        var hours = date.getHours();
+        var minutes = date.getMinutes();
+        if (minutes < 10) { minutes = '0' + minutes }
+        var day = date.getDate();
+        var month = date.getMonth();
+        var year = date.getFullYear();
+        document.getElementById("clockp").innerHTML = hours + ":" + minutes + " " + day + "." + month + "." + year
      }
