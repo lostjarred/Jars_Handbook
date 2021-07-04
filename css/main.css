@@ -26,7 +26,10 @@ ul.menu {
     white-space: pre;
 }
 
-
 .sub-menu {
     text-indent: 20px;
+}
+
+.code {
+    border: 1px solid;
 }
