@@ -55,9 +55,26 @@
                                 </div>
                             </div>
 
-                            <div class="grid-x grid-padding-x">
+                            <div class="grid-x grid-padding-x bordertop">
                                 <div class="large-12 cell">
                                     <p>>> Tutorial by Zeh, Taken from archive of Doom3world forums</p>
+                                </div>
+                            </div>
+
+                            <div class="grid-x grid-padding-x bordertop borderbottom">
+                                <!--IMAGE LINKS-->
+                                <div class="large-12 cell">
+                                    <p>
+                                        Images - 
+                                        <a href="\html\doom3\img\tutcgs0\tut0_mainmenu.jpg">Image 1</a> - 
+                                        <a href="\html\doom3\img\tutcgs0\tut0_hud.jpg">Image 2</a> - 
+                                        <a href="\html\doom3\img\tutcgs0\tut0_pda.jpg">Image 3</a> - 
+                                        <a href="\html\doom3\img\tutcgs0\tut0_weapon.jpg">Image 4</a> - 
+                                        <a href="\html\doom3\img\tutcgs0\tut0_elevator.jpg">Image 5</a> - 
+                                        <a href="\html\doom3\img\tutcgs0\tut0_health.jpg">Image 6</a> - 
+                                        <a href="\html\doom3\img\tutcgs0\tut0_mpmenu.jpg">Image 7</a> - 
+                                        <a href="\html\doom3\img\tutcgs0\tut0_mpscoreboard.jpg">Image 8</a> - 
+                                    </p>
                                 </div>
                             </div>
 
