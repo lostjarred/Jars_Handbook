@@ -64,7 +64,10 @@
                             <div class="grid-x grid-padding-x bordertop borderbottom">
                                 <!--IMAGE LINKS-->
                                 <div class="large-12 cell">
-                                    <p>Images - <a href="\html\doom3\img\tutcgs1\tut1_final.jpg">Image 1</a></p>
+                                    <p>
+                                        Images - 
+                                        <a href="\html\doom3\img\tutcgs1\tut1_final.jpg">Image 1</a>
+                                    </p>
                                 </div>
                             </div>
 
