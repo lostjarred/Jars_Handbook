@@ -77,8 +77,9 @@
                                     <p>
                                         For id Software, while it was possible to modify the appearance of on-screen menus and dialogs before, the Team Arena menu format was the first step towards a very practical and powerful GUI scripting system; this has evolved a lot and is now available in the DOOM 3 engine as the GUI scripting system.
                                     </p>
+                                    <p><b>Quote:</b></p>
                                     <p class="quote"> 
-                                        Quote:<br> I think the GUI interaction in the game is really powerful as an interactive paradigm. It doesn't require additional controls; you're interacting with something people are familiar with. Allowing you to interact with complex displays is powerful, much more than adding three more keys to do something. <br> <a href="https://web.archive.org/web/20121102213118/http://insidemacgames.com/news/story.php?ArticleID=8661"> John Carmack, Nov 3rd, 2003 </a> 
+                                        I think the GUI interaction in the game is really powerful as an interactive paradigm. It doesn't require additional controls; you're interacting with something people are familiar with. Allowing you to interact with complex displays is powerful, much more than adding three more keys to do something. <br> <a href="https://web.archive.org/web/20121102213118/http://insidemacgames.com/news/story.php?ArticleID=8661"> John Carmack, Nov 3rd, 2003 </a> 
                                     </p>
                                     <p> 
                                         GUIs script are, in fact, very powerful tools for creating interfaces in the engine. You're not only able to create general-use user window interfaces and change the game windows' aspect, but also create in-game interfaces. For example, these are all examples of GUI scripts in the DOOM 3 engine (click to see a bigger version):
