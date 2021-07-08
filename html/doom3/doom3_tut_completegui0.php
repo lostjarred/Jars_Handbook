@@ -84,21 +84,21 @@
                                     <p> 
                                         GUIs script are, in fact, very powerful tools for creating interfaces in the engine. You're not only able to create general-use user window interfaces and change the game windows' aspect, but also create in-game interfaces. For example, these are all examples of GUI scripts in the DOOM 3 engine (click to see a bigger version):
                                     </p>
-                                    <img src="\html\doom3\img\tutcgs0\small\tut0_mainmenu_t.jpg">
+                                    <img src="\html\doom3\img\tutcgs0\tut0_mainmenu.jpg">
                                     <p>The main menu. This includes all submenus and options available.</p>
-                                    <img src="\html\doom3\img\tutcgs0\small\tut0_hud_t.jpg">
+                                    <img src="\html\doom3\img\tutcgs0\tut0_hud.jpg">
                                     <p>The player HUD (short for "Heads Up Display"). It's, of course, everything that overlays the game action, showing the player health, ammo, etc. </p>
-                                    <img src="\html\doom3\img\tutcgs0\small\tut0_pda_t.jpg">
+                                    <img src="\html\doom3\img\tutcgs0\tut0_pda.jpg">
                                     <p>The user PDA, one of the most complex GUI scripts in the game.</p>
-                                    <img src="\html\doom3\img\tutcgs0\small\tut0_weapon_t.jpg">
+                                    <img src="\html\doom3\img\tutcgs0\tut0_weapon.jpg">
                                     <p>A weapon overlay (zoomed) - this actually shows the amount of ammo you have on the weapon itself, instead of depending on the HUD only. This is a non interactive display, but it is still a GUI. </p>
-                                    <img src="\html\doom3\img\tutcgs0\small\tut0_elevator_t.jpg">
+                                    <img src="\html\doom3\img\tutcgs0\tut0_elevator.jpg">
                                     <p>A lift panel, used to call the lift. Notice the arrow cursor on the middle of it - this is an in-game GUI that can be controlled by the player, and is rendered on game architecture. </p>
-                                    <img src="\html\doom3\img\tutcgs0\small\tut0_health_t.jpg">
+                                    <img src="\html\doom3\img\tutcgs0\tut0_health.jpg">
                                     <p>Pretty much like the lift button, this is a health station. When clicked, it gives the player more health -- one of the many examples of interaction with the player. </p>
-                                    <img src="\html\doom3\img\tutcgs0\small\tut0_mpmenu_t.jpg">
+                                    <img src="\html\doom3\img\tutcgs0\tut0_mpmenu.jpg">
                                     <p>Another complex GUI script, the multiplayer menu provides a more friendly access to multiplayer features. </p>
-                                    <img src="\html\doom3\img\tutcgs0\small\tut0_mpscoreboard_t.jpg">
+                                    <img src="\html\doom3\img\tutcgs0\tut0_mpscoreboard.jpg">
                                     <p>And of course, the multiplayer scoreboard is a mid-game window that shows information about the match.</p>
                                     <p>
                                         All these examples are pure GUI scripts, plain and simple. GUIs are nothing more than a script (text) file, which loads external images (materials) and provides simple script functionality for user interactions. While it is mainly a client technology, it is able to communicate with the game, calling functions, getting variables and overall interfacing with the game engine. The GUI that this script generates can later be displayed (as a new window), used on-screen (as a HUD), or used on an in-game model, to work as a panel or as a computer screen (in this case, the user is able to interact with the in-game "screen" by using a mouse cursor in place of the gun crosshair). 
