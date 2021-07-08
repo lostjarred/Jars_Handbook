@@ -6,12 +6,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="assets/css/foundation.css">
         <!--end of foundation-->
-        <link rel="stylesheet" href="./css/main.css">
-        <link rel="stylesheet" href="./css/mainfont.css">
-        <link rel="stylesheet" href="./css/amber.css">
-        <script src="./cdn/jquery-3.6.0.js"></script>
-        <script src="./javascript/jqfadein.js"></script>
-        <script src="./javascript/jsclock.js"></script>
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/mainfont.css">
+        <link rel="stylesheet" href="/css/amber.css">
+        <script src="/cdn/jquery-3.6.0.js"></script>
+        <script src="/javascript/jqfadein.js"></script>
+        <script src="/javascript/jsclock.js"></script>
         <title>Handbook - Index</title>
     </head>
     <body>
@@ -76,7 +76,7 @@
 
         </div>
         <!--foundation-->
-        <script src="assets/js/vendor.js"></script>
-        <script src="assets/js/foundation.js"></script>
+        <script src="/assets/js/vendor.js"></script>
+        <script src="/assets/js/foundation.js"></script>
     </body>
 </html>
