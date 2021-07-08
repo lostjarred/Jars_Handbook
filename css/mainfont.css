@@ -18,27 +18,39 @@
 
 p {
     font-family: glass_tty_vt220medium;
+    color: rgb(255, 255, 255);
 }
 h1 {
     font-family: glass_tty_vt220medium;
+    color: rgb(255, 255, 255);
 }
 
 h2 {
     font-family: glass_tty_vt220medium;
+    color: rgb(255, 255, 255);
 }
 
 h3 {
     font-family: glass_tty_vt220medium;
+    color: rgb(255, 255, 255);
 }
 
 h4 {
     font-family: glass_tty_vt220medium;
+    color: rgb(255, 255, 255);
 }
 
 h5 {
     font-family: glass_tty_vt220medium;
+    color: rgb(255, 255, 255);
+}
+
+h6 {
+    font-family: glass_tty_vt220medium;
+    color: rgb(255, 255, 255);
 }
 
 a {
     font-family: glass_tty_vt220medium;
+    color: rgb(255, 255, 255);
 }
