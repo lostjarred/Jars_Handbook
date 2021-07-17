@@ -269,7 +269,7 @@
                                     <p>
                                         Well, that pretty much sums it all. There are still lots to be covered, of course, but we'll get there. 
                                     </p>
-                                    <a href="https://web.archive.org/web/20121104033811/http://hosted.zeh.com.br/doom3/tutorials/tut1.zip">Download source and example files</a>
+                                    <a href="\html\doom3\files\tutcgs1\tut1.zip">Download source and example files</a>
                                 </div>
                             </div>
                         </div>
