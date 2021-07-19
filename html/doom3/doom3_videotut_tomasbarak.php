@@ -66,7 +66,7 @@
                                 <div class="large-12 cell">
                                     <h4>Tomas Barak - Video Tutorials</h4>
                                     <hr>
-                                    <a href="https://www.youtube.com/playlist?list=PLaaUDU_fsZZ7msV_RQjwuM5elVyJkcZ5K"> <h5>Main Playlist</h5> </a>
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLaaUDU_fsZZ7msV_RQjwuM5elVyJkcZ5K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     <hr>
                                     <iframe width="560" height="315" src="https://www.youtube.com/embed/pqDjm0pMZu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     <hr>
