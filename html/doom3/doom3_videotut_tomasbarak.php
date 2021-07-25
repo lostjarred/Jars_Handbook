@@ -14,13 +14,14 @@
         <script src="/javascript/jsclock.js"></script>
         <title>Handbook - Doom 3\ Tutorial\ Video Tomas Barak</title>
     </head>
+    <?php require('../../php/videoplayer.php') ?>
     <body>
         <div class="borderall">
 
             <div class="grid-x grid-padding-x fadein">
                 <!--HEADER-->
                 <div class="large-12 cell">
-                    <?php include( '../header.html' ) ?>
+                    <?php include '../header.html' ?>
                 </div>
             </div>
 
@@ -68,39 +69,23 @@
                                     <hr>
                                     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLaaUDU_fsZZ7msV_RQjwuM5elVyJkcZ5K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     <hr>
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/pqDjm0pMZu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    <hr>
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/u_xc7oXKq-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    <hr>
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/W9DnJSWlQD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    <hr>
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/BEAcMuyzUm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    <hr>
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/a5Pj-5DYle8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    <hr>
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/zMAyuMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    <hr>
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/Xi9U72hLbx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    <hr>
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/j4WMfXOHrkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    <hr>
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/tbFP_2jRhMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    <hr>
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/z0yS85SdaFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    <hr>
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/Q5rQ1FNuOiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    <hr>
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/06nOSdUyyTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    <hr>
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/RVIjn88lvMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    <hr>
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/5SKySPXS-Kc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    <hr>
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/bcEAWTeMICQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    <hr>
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/J4B_RlnX8CI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    <hr>
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/da1c4vqS30Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <?php embedyoutubevideo("Part 1", "pqDjm0pMZu4"); ?>      
+                                    <?php embedyoutubevideo("Part 2", "u_xc7oXKq-E"); ?>
+                                    <?php embedyoutubevideo("Part 3", "W9DnJSWlQD4"); ?>
+                                    <?php embedyoutubevideo("Part 4", "BEAcMuyzUm0"); ?>
+                                    <?php embedyoutubevideo("Part 5", "a5Pj-5DYle8"); ?>
+                                    <?php embedyoutubevideo("Part 6", "gSs-zMAyuMU"); ?>
+                                    <?php embedyoutubevideo("Part 7", "Xi9U72hLbx4"); ?>
+                                    <?php embedyoutubevideo("Part 8", "j4WMfXOHrkM"); ?>
+                                    <?php embedyoutubevideo("Part 9", "tbFP_2jRhMA"); ?>
+                                    <?php embedyoutubevideo("Part 10", "z0yS85SdaFM"); ?>
+                                    <?php embedyoutubevideo("Part 11", "Q5rQ1FNuOiw"); ?>
+                                    <?php embedyoutubevideo("Part 12", "06nOSdUyyTs"); ?>
+                                    <?php embedyoutubevideo("Part 13", "RVIjn88lvMY"); ?>
+                                    <?php embedyoutubevideo("Part 14", "5SKySPXS-Kc"); ?>
+                                    <?php embedyoutubevideo("Part 15", "bcEAWTeMICQ"); ?>
+                                    <?php embedyoutubevideo("Part 16", "J4B_RlnX8CI"); ?>
+                                    <?php embedyoutubevideo("Part 17", "da1c4vqS30Y"); ?>
                                 </div>
                             </div>
                         </div>
